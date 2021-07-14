@@ -1,6 +1,6 @@
 # AMIT---Smart-Home-Project
-## Name: Ahmed Sami Abbas Mekled
-## Group: L11
+## Name: **Ahmed Sami Abbas Mekled**
+## Group: **L11**
 
 ## Table of Contents
 
