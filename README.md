@@ -21,7 +21,9 @@ Smart Home project consists of two micro-controllers ATmega32a and virtual termi
 
 ## Software layered Architecture <a name="arch"></a>
 ![image](https://user-images.githubusercontent.com/47276498/125858736-dc30d676-1404-4993-be95-01f72edbd243.png)
+#### This is the Architecture of the First Control Unit
 ![image](https://user-images.githubusercontent.com/47276498/125858782-92fd0736-7220-41f8-af81-a2638d1b987a.png)
+#### This is the Architecture of the Second Control Unit
 
 ## Flow Chart <a name="flow"></a>
 
