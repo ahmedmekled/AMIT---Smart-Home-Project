@@ -20,6 +20,8 @@ Smart Home project consists of two micro-controllers ATmega32a and virtual termi
   4.	Signal ‘3’ turns LED 2 off
 
 ## Software layered Architecture
+![image](https://user-images.githubusercontent.com/47276498/125858736-dc30d676-1404-4993-be95-01f72edbd243.png)
+![image](https://user-images.githubusercontent.com/47276498/125858782-92fd0736-7220-41f8-af81-a2638d1b987a.png)
 
 ## Flow Chart
 
